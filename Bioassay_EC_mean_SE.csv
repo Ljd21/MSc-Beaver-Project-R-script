@@ -1,0 +1,9 @@
+Location,Bioassay,Mesh,mean_k,SE_k
+Enclosure,Oak,Fine,0.000488807,3.4359E-05
+Control,Oak,Fine,0.000702787,4.65396E-05
+Enclosure,Oak,Coarse,0.001428633,0.000297008
+Control,Oak,Coarse,0.001617443,0.000205034
+Enclosure,Wettex,Fine,0.000469217,9.71146E-05
+Control,Wettex,Fine,0.000764273,0.000196031
+Enclosure,Wettex,Coarse,0.002201527,0.000521379
+Control,Wettex,Coarse,0.002671251,0.000630012

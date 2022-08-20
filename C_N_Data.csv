@@ -1,0 +1,181 @@
+Site,Location,Bioassay,Replicate,k,C_N
+1,Downstream,Oak,R1,0.000794542,25.5
+1,Downstream,Oak,R2,0.000794735,25.5
+1,Downstream,Oak,R3,0.000826257,25.5
+1,Downstream,Oak,R4,0.000461713,25.5
+2,Downstream,Oak,R1,0.001106811,25.5
+2,Downstream,Oak,R2,0.000823032,25.5
+2,Downstream,Oak,R3,0.001001028,25.5
+2,Downstream,Oak,R4,0.001106425,25.5
+3,Downstream,Oak,R1,0.000843953,25.5
+3,Downstream,Oak,R2,0.000903878,25.5
+3,Downstream,Oak,R3,0.000971748,25.5
+3,Downstream,Oak,R4,0.000695377,25.5
+4,Downstream,Oak,R1,0.000798364,25.5
+4,Downstream,Oak,R2,0.000723195,25.5
+4,Downstream,Oak,R3,0.000851237,25.5
+4,Downstream,Oak,R4,0.000845733,25.5
+5,Downstream,Oak,R1,0.000862681,25.5
+5,Downstream,Oak,R2,0.000556101,25.5
+5,Downstream,Oak,R3,0.00083518,25.5
+5,Downstream,Oak,R4,0.000713255,25.5
+6,Enclosure,Oak,R1,0.000506243,25.5
+6,Enclosure,Oak,R2,0.000591287,25.5
+6,Enclosure,Oak,R3,0.00052356,25.5
+6,Enclosure,Oak,R4,0.000414246,25.5
+7,Enclosure,Oak,R1,0.000422484,25.5
+7,Enclosure,Oak,R2,0.000333302,25.5
+7,Enclosure,Oak,R3,0.000282876,25.5
+7,Enclosure,Oak,R4,0.000221658,25.5
+8,Enclosure,Oak,R1,0.000408084,25.5
+8,Enclosure,Oak,R2,0.00034714,25.5
+8,Enclosure,Oak,R3,0.000374117,25.5
+8,Enclosure,Oak,R4,0.000452094,25.5
+9,Enclosure,Oak,R1,0.000506192,25.5
+9,Enclosure,Oak,R2,0.000481155,25.5
+9,Enclosure,Oak,R3,0.000474518,25.5
+9,Enclosure,Oak,R4,0.00049804,25.5
+10,Enclosure,Oak,R1,0.000699567,25.5
+10,Enclosure,Oak,R2,0.000700092,25.5
+10,Enclosure,Oak,R3,0.000766114,25.5
+10,Enclosure,Oak,R4,0.000773371,25.5
+11,Control,Oak,R1,0.000901497,25.5
+11,Control,Oak,R2,0.000933741,25.5
+11,Control,Oak,R3,0.000885919,25.5
+11,Control,Oak,R4,0.000962803,25.5
+12,Control,Oak,R1,0.00070031,25.5
+12,Control,Oak,R2,0.000707815,25.5
+12,Control,Oak,R3,0.000663915,25.5
+12,Control,Oak,R4,0.00066141,25.5
+13,Control,Oak,R1,0.000487148,25.5
+13,Control,Oak,R2,0.000480259,25.5
+13,Control,Oak,R3,0.000560599,25.5
+13,Control,Oak,R4,0.000636717,25.5
+14,Control,Oak,R1,0.000386074,25.5
+14,Control,Oak,R2,0.000467586,25.5
+14,Control,Oak,R3,0.000423263,25.5
+14,Control,Oak,R4,0.000474521,25.5
+15,Control,Oak,R1,0.000860974,25.5
+15,Control,Oak,R2,0.000927055,25.5
+15,Control,Oak,R3,0.001013748,25.5
+15,Control,Oak,R4,0.000920376,25.5
+1,Downstream,Wettex,R1,0.000688792,18.8
+1,Downstream,Wettex,R2,0.00018636,18.8
+1,Downstream,Wettex,R3,0.000445052,18.8
+1,Downstream,Wettex,R4,0.000147369,18.8
+2,Downstream,Wettex,R1,0.000780263,18.8
+2,Downstream,Wettex,R2,0.000522327,18.8
+2,Downstream,Wettex,R3,0.000284301,18.8
+2,Downstream,Wettex,R4,0.000707127,18.8
+3,Downstream,Wettex,R1,0.000342501,18.8
+3,Downstream,Wettex,R2,0.000320381,18.8
+3,Downstream,Wettex,R3,0.000192036,18.8
+3,Downstream,Wettex,R4,0.000491433,18.8
+4,Downstream,Wettex,R1,0.000681774,18.8
+4,Downstream,Wettex,R2,0.00066238,18.8
+4,Downstream,Wettex,R3,0.000851964,18.8
+4,Downstream,Wettex,R4,0.000660622,18.8
+5,Downstream,Wettex,R1,0.000576312,18.8
+5,Downstream,Wettex,R2,0.00164403,18.8
+5,Downstream,Wettex,R3,0.000981669,18.8
+5,Downstream,Wettex,R4,0.000880944,18.8
+6,Enclosure,Wettex,R1,0.001107055,18.8
+6,Enclosure,Wettex,R2,0.001152143,18.8
+6,Enclosure,Wettex,R3,0.000989292,18.8
+6,Enclosure,Wettex,R4,0.001422518,18.8
+7,Enclosure,Wettex,R1,3.05225E-06,18.8
+7,Enclosure,Wettex,R2,6.46288E-05,18.8
+7,Enclosure,Wettex,R3,0.000433079,18.8
+7,Enclosure,Wettex,R4,0.000138307,18.8
+8,Enclosure,Wettex,R1,0.000108066,18.8
+8,Enclosure,Wettex,R2,6.78238E-05,18.8
+8,Enclosure,Wettex,R3,2.46805E-05,18.8
+8,Enclosure,Wettex,R4,2.79827E-05,18.8
+9,Enclosure,Wettex,R1,0.00034214,18.8
+9,Enclosure,Wettex,R2,0.000270457,18.8
+9,Enclosure,Wettex,R3,0.000281767,18.8
+9,Enclosure,Wettex,R4,0.000307752,18.8
+10,Enclosure,Wettex,R1,0.000695405,18.8
+10,Enclosure,Wettex,R2,0.000586488,18.8
+10,Enclosure,Wettex,R3,0.000886252,18.8
+10,Enclosure,Wettex,R4,0.000475448,18.8
+11,Control,Wettex,R1,0.000379404,18.8
+11,Control,Wettex,R2,6.71511E-05,18.8
+11,Control,Wettex,R3,0.000112575,18.8
+11,Control,Wettex,R4,0.000201714,18.8
+12,Control,Wettex,R1,2.88149E-05,18.8
+12,Control,Wettex,R2,3.68571E-05,18.8
+12,Control,Wettex,R3,0.000499651,18.8
+12,Control,Wettex,R4,0.000245208,18.8
+13,Control,Wettex,R1,0.000357066,18.8
+13,Control,Wettex,R2,0.000531057,18.8
+13,Control,Wettex,R3,0.001258715,18.8
+13,Control,Wettex,R4,0.000194355,18.8
+14,Control,Wettex,R1,0.000812365,18.8
+14,Control,Wettex,R2,0.000444889,18.8
+14,Control,Wettex,R3,0.001019078,18.8
+14,Control,Wettex,R4,0.000543209,18.8
+15,Control,Wettex,R1,0.000624242,18.8
+15,Control,Wettex,R2,0.002366658,18.8
+15,Control,Wettex,R3,0.00298963,18.8
+15,Control,Wettex,R4,0.002572813,18.8
+1,Downstream,Green Tea,R1,0.005055957,12.2
+1,Downstream,Green Tea,R2,0.004878076,12.2
+1,Downstream,Green Tea,R3,0.004829666,12.2
+1,Downstream,Green Tea,R4,0.005070538,12.2
+2,Downstream,Green Tea,R1,0.004270536,12.2
+2,Downstream,Green Tea,R2,0.004111801,12.2
+2,Downstream,Green Tea,R3,0.003576248,12.2
+2,Downstream,Green Tea,R4,0.004294634,12.2
+3,Downstream,Green Tea,R1,0.003412754,12.2
+3,Downstream,Green Tea,R2,0.004002154,12.2
+3,Downstream,Green Tea,R3,0.004222895,12.2
+3,Downstream,Green Tea,R4,0.003990912,12.2
+4,Downstream,Green Tea,R1,0.003685532,12.2
+4,Downstream,Green Tea,R2,0.004258754,12.2
+4,Downstream,Green Tea,R3,0.004087819,12.2
+4,Downstream,Green Tea,R4,0.004463798,12.2
+5,Downstream,Green Tea,R1,0.004424879,12.2
+5,Downstream,Green Tea,R2,0.004338924,12.2
+5,Downstream,Green Tea,R3,0.004589628,12.2
+5,Downstream,Green Tea,R4,0.004424879,12.2
+6,Enclosure,Green Tea,R1,0.004251661,12.2
+6,Enclosure,Green Tea,R2,0.003845324,12.2
+6,Enclosure,Green Tea,R3,0.004071538,12.2
+6,Enclosure,Green Tea,R4,0.004175118,12.2
+7,Enclosure,Green Tea,R1,0.003883206,12.2
+7,Enclosure,Green Tea,R2,0.003856213,12.2
+7,Enclosure,Green Tea,R3,0.003883206,12.2
+7,Enclosure,Green Tea,R4,0.003915857,12.2
+8,Enclosure,Green Tea,R1,0.003787097,12.2
+8,Enclosure,Green Tea,R2,0.003662177,12.2
+8,Enclosure,Green Tea,R3,0.003921507,12.2
+8,Enclosure,Green Tea,R4,0.003834966,12.2
+9,Enclosure,Green Tea,R1,0.003153527,12.2
+9,Enclosure,Green Tea,R2,0.003225298,12.2
+9,Enclosure,Green Tea,R3,0.004027484,12.2
+9,Enclosure,Green Tea,R4,0.003243463,12.2
+10,Enclosure,Green Tea,R1,0.00440901,12.2
+10,Enclosure,Green Tea,R2,0.003891476,12.2
+10,Enclosure,Green Tea,R3,0.004316599,12.2
+10,Enclosure,Green Tea,R4,0.003891476,12.2
+11,Control,Green Tea,R1,0.004394368,12.2
+11,Control,Green Tea,R2,0.004131661,12.2
+11,Control,Green Tea,R3,0.004178117,12.2
+11,Control,Green Tea,R4,0.003284853,12.2
+12,Control,Green Tea,R1,0.00399252,12.2
+12,Control,Green Tea,R2,0.004042952,12.2
+12,Control,Green Tea,R3,0.003605953,12.2
+12,Control,Green Tea,R4,0.004065577,12.2
+13,Control,Green Tea,R1,0.004084095,12.2
+13,Control,Green Tea,R2,0.004089866,12.2
+13,Control,Green Tea,R3,0.003844534,12.2
+13,Control,Green Tea,R4,0.003981808,12.2
+14,Control,Green Tea,R1,0.003582417,12.2
+14,Control,Green Tea,R2,0.003723399,12.2
+14,Control,Green Tea,R3,0.00303229,12.2
+14,Control,Green Tea,R4,0.003690183,12.2
+15,Control,Green Tea,R1,0.005334487,12.2
+15,Control,Green Tea,R2,0.005080345,12.2
+15,Control,Green Tea,R3,0.005304788,12.2
+15,Control,Green Tea,R4,0.005123016,12.2

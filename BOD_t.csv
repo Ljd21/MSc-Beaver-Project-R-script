@@ -1,0 +1,16 @@
+Site,Treatment,BOD5_t1,BOD5_t2,BOD5_t3
+1,Downstream,2.26,3.44,3.54
+2,Downstream,3.08,3.61,3.01
+3,Downstream,2.84,3.35,3.13
+4,Downstream,3.65,3.2,3.34
+5,Downstream,3.64,2.88,2.95
+6,Enclosure,3.8,3.03,3.55
+7,Enclosure,3.66,3.09,3.3
+8,Enclosure,3.3,3.69,3.32
+9,Enclosure,3.69,4.39,4.1
+10,Enclosure,3.71,3.24,3.28
+11,Control,2.9,2.89,3.3
+12,Control,3.3,3.3,3.02
+13,Control,3.4,3.38,3.31
+14,Control,3.15,3.6,3.81
+15,Control,2.44,2.93,2.26
